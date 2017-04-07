@@ -243,3 +243,7 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/10bitmake/test.bin
+/10bitmake/1440x2560x302.ppm
+/10bitmake/1440x2560x30.ppm
+/10bitmake/1440x2560x30 - 複製.ppm
